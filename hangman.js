@@ -1,4 +1,4 @@
-const input = require('sync-input');
+const input = require('prompt-sync')();
 let myList = ["python", "java", "swift", "javascript", "kotlin"];
 let wins = 0;
 let losts = 0;
