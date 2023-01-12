@@ -13,5 +13,5 @@ https://user-images.githubusercontent.com/82715902/205726922-9c4139fe-e868-40d5-
 - installed "node.js" (https://nodejs.org/en/download/)
 
 ### Instruction:
-1. Run the commande "node hangman.js" in console
+1. Run the command "node hangman.js" in console
 2. Follow the instructions on the command line
