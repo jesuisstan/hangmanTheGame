@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/82715902/205726922-9c4139fe-e868-40d5-
 ## How to play "Hangman" the game?
 ### Requirements:
 - installed [node.js](https://nodejs.org/en/download)
-[Create React App](https://github.com/facebook/create-react-app)
+
 ### Instruction:
 1. Run the command "node hangman.js" in console
 2. Follow the instructions on the command line
