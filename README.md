@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/82715902/205726922-9c4139fe-e868-40d5-
 
 ## How to play "Hangman" the game?
 ### Requirements:
-- installed "node.js" (https://nodejs.org/en/download/)
+- installed ["node.js"] (https://nodejs.org/en/download/)
 
 ### Instruction:
 1. Run the command "node hangman.js" in console
